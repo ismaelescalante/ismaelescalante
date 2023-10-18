@@ -40,7 +40,7 @@ I'm a Front End developer and I'm passionate about web developing and learning n
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="45%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ismaelescalante&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
