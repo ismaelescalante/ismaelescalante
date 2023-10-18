@@ -62,6 +62,3 @@ I'm a Front End developer and I'm passionate about web developing and learning n
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
